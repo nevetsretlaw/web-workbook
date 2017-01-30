@@ -10,7 +10,7 @@ body h2 {
 }
 
 .background-ocean {
-  background-image: url(./img/turksplane.jpg);
+  background-image: url(/img/turksplane.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -177,7 +177,7 @@ footer li a:hover {
 }
 
 #me {
-  background-image: url(./img/headshot.jpg);
+  background-image: url(/img/headshot.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
