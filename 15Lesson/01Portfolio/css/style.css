@@ -169,10 +169,13 @@ ul {
   width: 100%;
   font-family: 'Arima Madurai', cursive;
   background-color: #1D4A71;
-  color: #FFFCF4;
+  color: #1D4A71;
   font-weight: 300;
   padding-top: 2px;
-  border:
+}
+
+.dropdown-menu input {
+  background-color: #1D4A71;
 }
 
 #modal {
